@@ -8,7 +8,7 @@
   - 📫 maydecolque1@gmail.com (mail)
   - ⚡ Inicialmente aprendí programación de manera autodidacta acompañada de excelentes mentores como @SoyDalto, @MaxiPrograma, @JohnMircha, @midudev, @ATLAcademy, entre otros. 
 ---
-### He aquí un poco más sobre los conocimiento que tengo ✅
+### He aquí un poco más sobre los conocimientos que tengo ✅
 Desde el inicio me he centrado en la construcción de soluciones efectivas y eficientes a través del código. Por eso, durante mi trayecto, he adquirido una sólida comprensión de los fundamentos de la programación, abarcando desde los fundamentos hasta la programación orientada a objetos (POO). Tengo experiencia en el desarrollo de aplicaciones de consola y de escritorio, donde he aplicado estos conceptos de manera práctica.
 
 También he adquirido habilidades básicas en el manejo de bases de datos utilizando SQL Server, lo que me permite gestionar datos en mis aplicaciones. Además, he trabajado en el control de versiones utilizando Git y GitHub.
