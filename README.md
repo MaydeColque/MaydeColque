@@ -1,19 +1,19 @@
 ### Hola, soy May 😄🌸
 ---
 ✌ Algunos datos sobre mí:
-  - 📚 Actualmente soy estudiante de la tecnicatura en programación respaldada por UTN Avellaneda en el Centro Universitario De Innovación de la Matanza.
-  - 🌱 Estoy aprendiendo Programación Orientada a Objetos. 
+  - 📚 Soy estudiante de la Tecnicatura en Programación respaldada por UTN Avellaneda en el Centro Universitario De Innovación de la Matanza. 
   - 👾 He desarrollado aplicaciones de consola, de escritorio. Y páginas web estáticas con html y css3.
   - 🔥 En proceso de aprender a desarrollar aplicaciones web... 🙌
-  - 📫 maydecolque1@gmail.com (mail)
-  - ⚡ Inicialmente aprendí programación de manera autodidacta acompañada de excelentes mentores como @SoyDalto, @MaxiPrograma, @JohnMircha, @midudev, @ATLAcademy, entre otros. 
+  - ⚡ Inicialmente aprendí programación de manera autodidacta acompañada de excelentes mentores como @SoyDalto, @MaxiPrograma, @JohnMircha, @midudev, @ATLAcademy, entre otros.
+  - 📫 Puedes escribirme via mail: maydecolque1@gmail.com
+  - 🔗 También puedes ver mi portafolio aquí: ([maydecolque/portafolio](https://maydecolque.github.io/portafolio/))  
 ---
-### He aquí un poco más sobre los conocimientos que tengo ✅
-Durante mi trayecto, he adquirido una sólida comprensión de los **fundamentos de la programación**. Y, luego **programación orientada a objetos** (POO). Tengo experiencia en el **desarrollo de aplicaciones de consola y de escritorio**, donde he aplicado estos conceptos de manera práctica.
+### Un poco más sobre los conocimientos que tengo ✅
+He adquirido una sólida comprensión de los **fundamentos de la programación**. Y, luego **programación orientada a objetos** (POO). También aprendí a **desarrollar aplicaciones de consola y de escritorio**.
 
-También he adquirido habilidades básicas en el manejo de **bases de datos** utilizando SQL Server, lo que me permite gestionar datos en mis aplicaciones. Además, he aprendido sobre el control de versiones utilizando Git y GitHub. Los proyectos más relevantes están subidos a GitHub.
+Tengo habilidades básicas en el manejo de **bases de datos** utilizando **SQL Server**, lo que me permite gestionar datos en mis aplicaciones. Además, sé usar comandos básicos para el control de versiones utilizando **Git** y subir mis proyectos más relevantes a **GitHub**.
 
-Inicie en este mundo de la tecnología creando **páginas web estáticas** tras aprender HTML y CSS, y algunos proyectos con algo de JavaScript. Aunque mi conocimiento de JavaScript es básico, estoy _dispuesta a continuar potenciando mis habilidades_ en el desarrollo web. 
+Inicie en este mundo de la tecnología creando **páginas web estáticas** tras aprender **HTML y CSS**, y algunos proyectos con algo de JavaScript. Aunque mi conocimiento de JavaScript es básico, estoy _dispuesta a continuar potenciando mis habilidades_ tanto en el desarrollo frontend como el backend. 
 
 Mi interés por la colaboración en equipo me llevó a aprender sobre Git y GitHub, así como el **manejo de la terminal**, habilidades que considero fundamentales en un entorno profesional de desarrollo.
 
@@ -46,8 +46,8 @@ Mi interés por la colaboración en equipo me llevó a aprender sobre Git y GitH
 
 ---
 
-### Portfolio
-🌐 (poner link aqui)  </br></br>
+### Portafolio
+🌐 ([maydecolque/portafolio](https://maydecolque.github.io/portafolio/))  </br></br>
 ▫ Herramientas utilizadas: <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ---
