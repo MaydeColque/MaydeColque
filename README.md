@@ -1,27 +1,30 @@
-### Hola, soy May 😄🌸
+### Hola! Soy Mayde 😄🌸
 ---
-✌ Algunos datos sobre mí:
-  - 📚 Soy estudiante de la Tecnicatura en Programación respaldada por UTN Avellaneda en el Centro Universitario De Innovación de la Matanza. 
+✨ Sobre mí:
+  - 📚 Soy estudiante de la Tecnicatura en Programación respaldada por la UTN-Avellaneda en el Centro Universitario De Innovación de la Matanza (CUDI). 
   - 👾 He desarrollado aplicaciones de consola, de escritorio. Y páginas web estáticas con html y css3.
   - 🔥 En proceso de aprender a desarrollar aplicaciones web... 🙌
-  - ⚡ Inicialmente aprendí programación de manera autodidacta acompañada de excelentes mentores como @SoyDalto, @MaxiPrograma, @JohnMircha, @midudev, @ATLAcademy, entre otros.
+  - ⚡ Inicialmente aprendí programación de manera autodidacta acompañada de excelentes mentores como @SoyDalto, @MaxiPrograma, @JohnMircha, @midudev, entre otros.
   - 📫 Puedes escribirme via mail: maydecolque1@gmail.com
-  - 🔗 También puedes ver mi portafolio aquí: ([maydecolque/portafolio](https://maydecolque.github.io/portafolio/))  
+  - 🔗 Puedes ver mi portafolio aquí 👉 ([maydecolque/portafolio](https://maydecolque.github.io/portafolio/))  
 ---
-### Un poco más sobre los conocimientos que tengo ✅
-He adquirido una sólida comprensión de los **fundamentos de la programación**. Y, luego **programación orientada a objetos** (POO). También aprendí a **desarrollar aplicaciones de consola y de escritorio**.
+## Conocimientos ✅
 
-Tengo habilidades básicas en el manejo de **bases de datos** utilizando **SQL Server**, lo que me permite gestionar datos en mis aplicaciones. Además, sé usar comandos básicos para el control de versiones utilizando **Git** y subir mis proyectos más relevantes a **GitHub**.
+Inicié creando **páginas web estáticas** utilizando **HTML y CSS**, lo que despertó mi interés por la programación por eso continue aprendiendo sobre desarrollo frontend y backend.
 
-Inicie en este mundo de la tecnología creando **páginas web estáticas** tras aprender **HTML y CSS**, y algunos proyectos con algo de JavaScript. Aunque mi conocimiento de JavaScript es básico, estoy _dispuesta a continuar potenciando mis habilidades_ tanto en el desarrollo frontend como el backend. 
+He adquirido una sólida comprensión de los **fundamentos de la programación** y, posteriormente, de la **Programación Orientada a Objetos** (POO). También he desarrollado aplicaciones en distintos entornos, como:
 
-Mi interés por la colaboración en equipo me llevó a aprender sobre Git y GitHub, así como el **manejo de la terminal**, habilidades que considero fundamentales en un entorno profesional de desarrollo.
+- **Aplicaciones de consola**: usando C y C++.
+- **Aplicaciones de escritorio**: utilizando **C#, .NET y SQL Server**.
 
-> Básicamente, mi objetivo es seguir creciendo como desarrolladora y construir soluciones eficientes ✔
+Además, manejo algunos comandos básicos de control de versiones con **Git** y he subido mis proyectos más relevantes a esta plataforma (GitHub). 
+
+> Mi **objetivo** es seguir aprendiendo y fortalecer mis conocimientos como desarrolladora al construir soluciones eficientes, aportando valor ✔
+
  
 ---
 
-### 🔴 Tecnologías y Herramientas que he aprendido 
+### 🔴 Tecnologías y Herramientas 
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="http://img.shields.io/badge/-CSharp-007ACC?style=flat&logo=C%20Sharp&logoColor=white"> <img src="https://img.shields.io/badge/-SQLServer-F29111?style=flat&logo=sqlserver&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-VS-007ACC?style=flat&logo=visual%20studio&logoColor=white">
 
