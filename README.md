@@ -40,12 +40,12 @@ Además, manejo algunos comandos básicos de control de versiones con **Git** y 
   Curso C# .Net - Nivel 2 dictado por MaxiPrograma - Proyecto final. </br>
   ▫ Herramientas utilizadas:  <img src="http://img.shields.io/badge/-CSharp-007ACC?style=flat&logo=C%20Sharp&logoColor=white"> <img src="https://img.shields.io/badge/-SQLServer-F29111?style=flat&logo=sqlserver&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS-007ACC?style=flat&logo=visual%20studio&logoColor=white"> 
    
-  👈 ver repositorio: [<img align="left" alt="App: Gestión de Libros" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][RepositorioArticulos] </br></br>
+  👈 ver repositorio: [<img align="left" alt="App: Gestión Artículos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][RepositorioArticulos] </br></br>
 💠 Pokédex:</br>
   Curso C# .Net - Nivel 2 dictado por MaxiPrograma - Proyecto práctico </br>
   ▫ Herramientas utilizadas:  <img src="http://img.shields.io/badge/-CSharp-007ACC?style=flat&logo=C%20Sharp&logoColor=white"> <img src="https://img.shields.io/badge/-SQLServer-F29111?style=flat&logo=sqlserver&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS-007ACC?style=flat&logo=visual%20studio&logoColor=white"> 
    
-  👈 ver repositorio: [<img align="left" alt="App: Gestión de Libros" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][RepositorioPokedex] </br></br>
+  👈 ver repositorio: [<img align="left" alt="App: Pokédex" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][RepositorioPokedex] </br></br>
 
 ---
 
@@ -64,6 +64,6 @@ Además, manejo algunos comandos básicos de control de versiones con **Git** y 
 <!-- Urls de los icons -->
 
 [RepositorioLibros]: https://github.com/MaydeColque/Productos_Libros
-[RepositorioArticulos]: https://github.com/MaydeColque/TrabajoFinalNivel2
-[RepositorioPokedex]: https://github.com/MaydeColque/Pokedex-Proyecto
+[RepositorioArticulos]: https://github.com/MaydeColque/TrabajoFinalNivel2/blob/main/README.md
+[RepositorioPokedex]: https://github.com/MaydeColque/Pokedex-Proyecto/blob/main/README.md
 [linkedin]: https://www.linkedin.com/in/mayde-colque/
